@@ -1,4 +1,4 @@
-# 🌍 Global Population Analysis and Visualization  
+# 🌍 Exploring Global Population Trends: A Data-Driven Approach
 
 ## 📌 Overview  
 This project explores global population trends using data analysis and visualization techniques. The goal is to uncover insights into demographic distribution, historical growth patterns, and the relationship between population and economic factors.  
