@@ -6,7 +6,7 @@ These projects showcase my skills in SQL, Python, Tableau, and other tools, as w
 
 ## Projects
 
-### [**Marketing Analytics Business Case**](./marketing_analytics_business_case) (Ongoing) 
+### [**Marketing Analytics Business Case**](https://github.com/Suwethaig/Projects/tree/main/marketing_analytics) (Ongoing) 
    - **Description**: This project focuses on analyzing ShopEasy, an online retail business, to help improve its **customer engagement**, **conversion rates**, and optimize **marketing spend**.
    - **Key Skills**: SQL, Python, Sentiment Analysis, Data Visualization, Power BI
    - **Tools Used**: SQL, Python, Power BI
