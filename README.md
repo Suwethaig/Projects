@@ -6,6 +6,21 @@ These projects showcase my skills in SQL, Python, Tableau, and other tools, as w
 
 ## Projects
 
+### [**Marketing Analytics Business Case**](https://github.com/Suwethaig/Projects/tree/main/marketing_analytics) (Ongoing) 
+   - **Description**: This project focuses on analyzing ShopEasy, an online retail business, to help improve its **customer engagement**, **conversion rates**, and optimize **marketing spend**.
+   - **Key Skills**: SQL, Python, Sentiment Analysis, Data Visualization, Power BI
+   - **Tools Used**: SQL, Python, Power BI
+   - **Steps Involved**:  
+     1. Data Extraction & Cleaning (SQL)  
+     2. Sentiment Analysis (Python)  
+     3. Building Power BI Dashboard
+     4. Key Insights
+   - **Current Status**:
+     - The project is still in progress, with the SQL data extraction and cleaning, Python sentiment analysis, and Power BI dashboard already completed.
+     - Currently working on analyzing the dashboard's insights to provide actionable recommendations.
+     - The next phase of the project involves identifying trends from the Power BI dashboard to make recommendations for marketing strategies.
+     - Once insights are derived, the final report with actionable steps will be created.
+
 ### [**Vancouver Rental Analysis**](./vancouver_rental_analysis)  
    - **Description**: An analysis of Vancouver's rental market using SQL queries to gather insights into pricing trends, occupancy rates, and demographic distribution.  
    - **Key Skills**: SQL, Data Analysis, Data Cleaning, Reporting  
