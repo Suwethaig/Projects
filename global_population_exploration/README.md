@@ -25,4 +25,8 @@ This project explores global population trends using data analysis and visualiza
 - How does population correlate with GDP?  
 
 ## 📂 Insights and Visualizations  
-All insights, charts, and detailed analyses are available in the **Jupyter Notebook**. Please refer to it for a deeper exploration of the data-driven findings.  
+All insights, charts, and detailed analyses are available in the **Jupyter Notebook**:  
+📄 **File Name:** `population_exploration.ipynb`  
+
+If you are unable to render the notebook properly on GitHub, you can view it on **nbviewer**:  
+🔗 [Open in nbviewer](https://nbviewer.org/github/Suwethaig/Projects/blob/main/global_population_exploration/population_exploration.ipynb)  
