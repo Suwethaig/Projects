@@ -6,8 +6,8 @@ This interactive **Tableau dashboard** explores **housing trends** in King Count
 🔗 **[View the Dashboard](https://public.tableau.com/shared/YMGFGRY7W?:display_count=n&:origin=viz_share_link)**   
 
 ### **Features**
-- **Calendar Widget** – Select specific time periods to analyze sales trends.  
-- **Key Insights** – View price trends, property conditions, and housing distributions.  
+- **Calendar Widget** – Select specific time periods to analyze sales trends
+- **Key Insights** – View price trends, property conditions, and housing distributions
 - **6 Visualizations**:  
    - **Line Chart** – Average house price over time 
    - **Map** – Geographic distribution of average prices   
@@ -37,7 +37,9 @@ This interactive **Tableau dashboard** explores **housing trends** in King Count
 
 #### **Meme Corner 😆**  
 When house prices just keep rising... 📈🏡  
-![Meme](https://i.imgflip.com/4t0m5.jpg)  
+<p align="center">
+  <img src="https://github.com/Suwethaig/Projects/blob/main/king_county_house_sales_dashboard/images/house_price_meme.jpeg" />
+</p>
 
 ---
 
