@@ -1,6 +1,8 @@
 # Projects Folder
 
-Welcome to my **Projects Folder**! Here you'll find a collection of my data analysis and data visualization projects. These projects showcase my skills in SQL, Python, Tableau, and other tools, as well as my ability to clean, analyze, and visualize data effectively.
+Welcome to my **Projects Folder**!  
+Here you'll find a collection of my data analysis and data visualization projects.  
+These projects showcase my skills in SQL, Python, Tableau, and other tools, as well as my ability to clean, analyze, and visualize data!  
 
 ## Projects
 
