@@ -1,4 +1,4 @@
-## **King County House Sales Dashboard** 🏡💰  
+## **King County House Sales Dashboard**  
 
 This interactive **Tableau dashboard** explores **housing trends** in King County, helping users analyze home prices, bedroom/bathroom distributions, and property conditions.  
 
@@ -20,12 +20,12 @@ This interactive **Tableau dashboard** explores **housing trends** in King Count
 
 📌 *Use the calendar widget to filter sales trends dynamically!*  
 <p align="center">
-  <img src="https://github.com/Suwethaig/Projects/blob/main/british_airways_reviews_dashboard/dashboard_images/ratings_by_aircraft.png" />
+  <img src="https://github.com/Suwethaig/Projects/blob/main/king_county_house_sales_dashboard/images/filters.png" />
 </p>
 
 📌 *Explore price variations across different locations in King County!*  
 <p align="center">
-  <img src="https://github.com/Suwethaig/Projects/blob/main/british_airways_reviews_dashboard/dashboard_images/ratings_by_aircraft.png" />
+  <img src="https://github.com/Suwethaig/Projects/blob/main/king_county_house_sales_dashboard/images/house_prices_map.png" />
 </p>
 
 ### **How to Use**
