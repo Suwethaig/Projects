@@ -6,29 +6,27 @@ These projects showcase my skills in SQL, Python, Tableau, and other tools, as w
 
 ## Projects
 
-### **Vancouver Rental Analysis**  
+### [**Vancouver Rental Analysis**](./vancouver_rental_analysis)  
    - **Description**: An analysis of Vancouver's rental market using SQL queries to gather insights into pricing trends, occupancy rates, and demographic distribution.  
    - **Key Skills**: SQL, Data Analysis, Data Cleaning, Reporting  
    - **Tools Used**: SQL, Excel
 
-### **Global Population Exploration**  
+### [**Global Population Exploration**](./global_population_exploration)  
    - **Description**: A deep dive into global population data, analyzing demographic trends, population growth, and socioeconomic factors with Python and Jupyter Notebooks.  
    - **Key Skills**: Python, Data Exploration, Visualization, Jupyter Notebooks  
    - **Libraries Used**: Pandas, Matplotlib, Seaborn
 
-### **British Airways Reviews Dashboard**  
+### [**British Airways Reviews Dashboard**](./british_airways_reviews_dashboard)  
    - **Description**: A Tableau dashboard visualizing customer reviews of British Airways, providing insights into sentiment, popular routes, and service feedback.  
    - **Key Skills**: Tableau, Data Visualization, Dashboard Design  
    - **Tools Used**: Tableau
 
-### **King County House Sales Dashboard**  
+### [**King County House Sales Dashboard**](./king_county_house_sales_dashboard)  
    - **Description**: A Tableau dashboard visualizing housing market trends and sales data for King County, providing insights into pricing, property features, and neighborhood analysis.  
    - **Key Skills**: Tableau, Data Visualization, Dashboard Design  
    - **Tools Used**: Tableau
 
-### **Pandas Data Wrangling**  
+### [**Pandas Data Wrangling**](./pandas_data_wrangling)  
    - **Description**: A data wrangling project using Pandas to clean and transform raw datasets, handling missing values, duplicates, and data type corrections to prepare the data for analysis.  
    - **Key Skills**: Python, Pandas, Data Wrangling, Data Cleaning  
    - **Libraries Used**: Pandas
-
-
