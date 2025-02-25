@@ -3,6 +3,8 @@
 ### 📌 Overview  
 This project analyzes global population trends using data exploration and visualization techniques. It examines demographic distribution, historical growth patterns, and the relationship between population and economic factors.  
 
+![World-population-Touches-8-Billion](https://github.com/user-attachments/assets/2d04ca35-a1b9-4c3c-aa75-9d7cf92015c6)
+
 ### 📊 Key Questions Explored  
 
 #### **Part 1 - Understanding the Current Global Population**  
