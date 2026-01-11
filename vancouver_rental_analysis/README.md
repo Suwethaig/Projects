@@ -61,7 +61,7 @@ ORDER BY Year;
 ```
 
 #### **Output 1.1:**
-![Result_1](https://github.com/user-attachments/assets/9a306486-4aeb-4080-9b01-a00d0e6833f4)
+![Result_1](https://raw.githubusercontent.com/Suwethaig/Projects/refs/heads/main/vancouver_rental_analysis/output/Output%201.1.png)
 
 ### Interpretation
 - Vancouver's rental prices have fluctuated over the past 15 years, with periods of both increases and decreases.
