@@ -98,7 +98,7 @@ FROM temp_rent_income;
 Next, I have calculated rent to income ratio for total average rent and average rent across different housing types.
 
 #### **Output 2.1:**
-![Result_2](https://github.com/user-attachments/assets/e85db987-4742-4407-82b0-c998a207f219)
+![Result_2](https://raw.githubusercontent.com/Suwethaig/Projects/refs/heads/main/vancouver_rental_analysis/output/Output%202.1.png)
 
 #### **SQL Query 2.2:**
 ```sql
@@ -111,8 +111,7 @@ FROM temp_rent_income;
 ```
 
 #### **Output 2.2:**
-![Result_3](https://github.com/user-attachments/assets/0bbce2af-f5f5-400f-a5f8-fedf569034bf)
-
+![Result_3](https://raw.githubusercontent.com/Suwethaig/Projects/refs/heads/main/vancouver_rental_analysis/output/Output%202.2.png)
 
 #### **SQL Query 2.3:**
 ```sql
@@ -127,7 +126,7 @@ FROM temp_rent_income;
 ```
 
 #### **Output 2.3:**
-![Result_4](https://github.com/user-attachments/assets/b48e1a46-7a8a-4e1b-8999-cef3a793ec45)
+![Result_4](https://raw.githubusercontent.com/Suwethaig/Projects/refs/heads/main/vancouver_rental_analysis/output/Output%202.3.png)
 
 ### Interpretation
 - On average, minimum wage workers in Vancouver spend about **65%** of their income on rent.
@@ -146,8 +145,8 @@ MAX(Total_Avg_Rent) - MIN(Total_Avg_Rent) AS Rent_Range
 FROM zone_avg_rent;
 ```
 
-#### **Output 3.2:**
-![Result 3 1](https://github.com/user-attachments/assets/e1a2b711-a34f-4d7b-81c7-61985d16e5ce)
+#### **Output 3.1:**
+![Result 3 1](https://raw.githubusercontent.com/Suwethaig/Projects/refs/heads/main/vancouver_rental_analysis/output/Output%203.1.png)
 
 Based on these findings, I have classified the zones as follows:
 - Low: Rent less than $1650
@@ -196,7 +195,7 @@ GROUP BY
 ```
 
 #### **Output 3.3:**
-![Result 3 3](https://github.com/user-attachments/assets/9a3e588c-5ad2-4f29-8639-63e978a0891b)
+![Result 3 3](https://raw.githubusercontent.com/Suwethaig/Projects/refs/heads/main/vancouver_rental_analysis/output/Output%203.3.png)
 
 
 #### *Investigating Medium Rent Zones*
@@ -211,7 +210,7 @@ WHERE Rent_Level = 'Medium'
 ORDER BY Total_Units;
 ```
 #### **Output 3.4:**
-![Result 3 4](https://github.com/user-attachments/assets/13347c92-b573-48f2-9faa-d708d0f13f88)
+![Result 3 4](https://raw.githubusercontent.com/Suwethaig/Projects/refs/heads/main/vancouver_rental_analysis/output/Output%203.4.png)
 
 Identifying that **Vancouver zone** has an exceptionally high number of units **(123,867)**, I have opted to remove it as it an outlier and them determine the mean to get a clearer picture of the medium rent levels.
 
@@ -230,7 +229,7 @@ GROUP BY
 ```
 
 #### **Output 3.5:**
-![Result 3 5](https://github.com/user-attachments/assets/40051db6-2f4b-4a8f-8b9f-33bd64c453ee)
+![Result 3 5](https://raw.githubusercontent.com/Suwethaig/Projects/refs/heads/main/vancouver_rental_analysis/output/Output%203.5.png)
 
 ### Interpretation
 - Despite the higher availability of rental units in medium rent zones, the presence of more units does not translate to lower prices.
@@ -258,7 +257,7 @@ WHERE
 ```
 
 #### **Output 4.1:**
-![Result 4 1](https://github.com/user-attachments/assets/31adf246-d1b5-40fd-82cc-45480731c93d)
+![Result 4 1](https://raw.githubusercontent.com/Suwethaig/Projects/refs/heads/main/vancouver_rental_analysis/output/Output%204.1.png)
 
 ### Interpretation
 - The rent for a **bachelor unit** is **31%** of the median income, which is already significant. 
@@ -281,7 +280,7 @@ LIMIT 1;  -- Limit the result to the zone with the lowest rent
 ```
 
 #### **Output 5.1:**
-![Result 5 1](https://github.com/user-attachments/assets/88310cfa-cf08-4cfc-bf2b-43df804d6f70)
+![Result 5 1](https://raw.githubusercontent.com/Suwethaig/Projects/refs/heads/main/vancouver_rental_analysis/output/Output%205.1.png)
 
 ### Interpretation
 - The three zones that offer lowest average rent are **Marpole**, **White Rock** and **Southeast Burnaby**.
