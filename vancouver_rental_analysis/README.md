@@ -7,7 +7,7 @@ As a newcomer to Vancouver, one of the first things I noticed was how much of my
 
 Rather than just speculate, I decided to dive into the data and discover the truth for myself.
 
-![Combined Meme](https://github.com/user-attachments/assets/81e90ab1-dfe1-49cc-ae58-e7de5ce971ac)
+![Combined Meme](https://raw.githubusercontent.com/Suwethaig/Projects/refs/heads/main/vancouver_rental_analysis/output/combined_meme.png)
 
 ## Table of Contents
 - [Key Questions for Exploration](key-questions-for-exploration)
