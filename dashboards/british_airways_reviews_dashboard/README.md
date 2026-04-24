@@ -1,33 +1,52 @@
-## **British Airways Reviews Tableau Dashboard**
+## British Airways Reviews Dashboard
 
-This interactive dashboard visualizes customer reviews for British Airways. Users can explore key satisfaction metrics and uncover trends through its dynamic filters.
+### Overview
+Tableau dashboard analyzing British Airways customer reviews to understand satisfaction trends across services, aircraft types, and regions.
 
-### **Dashboard Preview**
-Here’s a snapshot of the dashboard:  
+---
 
-![Dashboard Overview](dashboard_images/dashboard_overview.png) 
+### Live Dashboard
+🔗 [View Dashboard](https://public.tableau.com/views/BritishAirwaysReview_17202186412550/Dashboard)
 
-📌 *Map visualization showing average ratings by country*  
-<p align="center">
-  <img src="https://github.com/Suwethaig/Projects/blob/main/british_airways_reviews_dashboard/dashboard_images/ratings_by_country.png" />
-</p>
+---
 
-📌 *Bar chart comparing overall ratings across different aircraft types*
-<p align="center">
-  <img src="https://github.com/Suwethaig/Projects/blob/main/british_airways_reviews_dashboard/dashboard_images/ratings_by_aircraft.png" />
-</p>
+### Key Features
 
-### **Features**
-- **Key Metrics**: Explore ratings for cabin staff service, food quality, entertainment, ground service, and seat comfort.
-- **Dynamic Filters**: Easily filter by month, seat type, traveller type, aircraft, and continent.
-- **Visual Insights**: Line charts, maps, and bar charts provide an in-depth look at customer satisfaction.
+- Analysis of customer satisfaction across multiple service categories  
+- Dynamic filters for month, seat type, traveller type, aircraft, and region  
+- Visual breakdown of trends using charts and maps  
+  
+**Visualizations include:**
+- Line chart: Rating trends over time  
+- Map: Average ratings by country  
+- Bar chart: Ratings by aircraft type  
 
-### **Live Dashboard**
-You can interact with the full dashboard here:  
-🔗 [British Airways Reviews Dashboard](https://public.tableau.com/views/BritishAirwaysReview_17202186412550/Dashboard)
+---
 
-## **How to Use**
-1. Visit the Tableau Public link above to explore the dashboard.
-2. Use the interactive filters to analyze trends based on different factors.
-3. Download the Tableau workbook (`.twb` or `.twbx`) from this repository to explore further.
+### Dashboard Preview
 
+![Overview](https://raw.githubusercontent.com/Suwethaig/Projects/main/dashboards/british_airways_reviews_dashboard/dashboard_images/dashboard_overview.png)
+
+![Ratings by Country](https://raw.githubusercontent.com/Suwethaig/Projects/main/dashboards/british_airways_reviews_dashboard/dashboard_images/ratings_by_country.png)
+
+![Ratings by Aircraft](https://raw.githubusercontent.com/Suwethaig/Projects/main/dashboards/british_airways_reviews_dashboard/dashboard_images/ratings_by_aircraft.png)
+
+---
+
+### How to Use
+
+1. Open the dashboard using the link above  
+2. Apply filters to explore trends across different categories  
+3. Interact with visualizations to compare customer ratings  
+
+---
+
+### Key Insight
+
+Customer satisfaction varies across aircraft types and regions, with certain service categories having a stronger impact on overall ratings.
+
+---
+
+### Tools
+
+Tableau • Data Visualization
