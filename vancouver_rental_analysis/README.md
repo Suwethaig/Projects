@@ -18,7 +18,7 @@ This step was essential to create a reliable dataset for analysis.
 - [Hypotheses](https://github.com/Suwethaig/Projects/tree/main/vancouver_rental_analysis#hypotheses)
 - [Data Analysis](data-analysis)
   - [Analysis 1 - Rental Price Evolution](https://github.com/Suwethaig/Projects/tree/main/vancouver_rental_analysis#-analysis-1---rental-price-evolution-)
-  - [Analysis 2 - Minimum Wage Challenges](#-analysis-2---minimum-wage-challenges-)
+  - [Analysis 2 - Minimum Wage Challenges](https://github.com/Suwethaig/Projects/tree/main/vancouver_rental_analysis#-analysis-1---rental-price-evolution-)
   - [Analysis 3 - Supply and Price Dynamics](#-analysis-3---supply-and-price-dynamics-)
   - [Analysis 4 - Housing Option Trends](#-analysis-4---housing-option-trends-)
   - [Analysis 5 - Affordable Zones](#-analysis-5---affordable-zones-)
