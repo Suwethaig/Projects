@@ -3,8 +3,6 @@
 ### Why Data Cleaning is Important?
 Data cleaning and standardization are critical for ensuring accurate results in any analysis. Without clean and consistent data, we may end up with incorrect results, which can lead to poor decision-making.
 
-![4469937](https://github.com/Suwethaig/Projects/blob/main/pandas_data_wrangling/visualizations/cat_meme.jpg)
-
 ### Data Cleaning Goals:
 In this project, I worked with a customer call list dataset to identify and resolve data quality issues. I simplified the data, addressed inconsistencies, and standardized the format to ensure consistency across the dataset.
 
