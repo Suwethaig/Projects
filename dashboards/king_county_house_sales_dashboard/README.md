@@ -1,47 +1,53 @@
-## **King County House Sales Dashboard**  
+## King County House Sales Dashboard
 
-This interactive **Tableau dashboard** explores **housing trends** in King County, helping users analyze home prices, bedroom/bathroom distributions, and property conditions.  
-
-### **Live Dashboard**
-🔗 **[View the Dashboard](https://public.tableau.com/shared/YMGFGRY7W?:display_count=n&:origin=viz_share_link)**   
-
-### **Features**
-- **Calendar Widget** – Select specific time periods to analyze sales trends
-- **Key Insights** – View price trends, property conditions, and housing distributions
-- **6 Visualizations**:  
-   - **Line Chart** – Average house price over time 
-   - **Map** – Geographic distribution of average prices   
-   - **Histograms** – House price distribution, bedroom distribution, bathroom distribution 
-   - **Heatmap** – Relationship between property views and condition 
-
-
-### **Dashboard Preview**
-![Dashboard Overview](images/dashboard_overview.png) 
-
-📌 *Use the calendar widget to filter sales trends dynamically!*  
-<p align="center">
-  <img src="https://github.com/Suwethaig/Projects/blob/main/king_county_house_sales_dashboard/images/filters.png" />
-</p>
-
-📌 *Explore price variations across different locations in King County!*  
-<p align="center">
-  <img src="https://github.com/Suwethaig/Projects/blob/main/king_county_house_sales_dashboard/images/house_prices_map.png" />
-</p>
-
-### **How to Use**
-1. **Explore the Dashboard** – Click the link above to interact with the data.  
-2. **Use Filters** – Adjust the calendar widget and filters to analyze trends.  
-3. **Download** – Access the Tableau workbook (`.twb` or `.twbx`) for further exploration.  
+### Overview
+Tableau dashboard analyzing housing trends in King County, focusing on price patterns, property characteristics, and geographic distribution.
 
 ---
 
-#### **Meme Corner 😆**  
-When house prices just keep rising... 📈🏡  
-<p align="center">
-  <img src="https://github.com/Suwethaig/Projects/blob/main/king_county_house_sales_dashboard/images/house_price_meme.jpeg" />
-</p>
+### Live Dashboard
+🔗 [View Dashboard](https://public.tableau.com/shared/YMGFGRY7W?:display_count=n&:origin=viz_share_link)
 
 ---
 
-This project provides a **data-driven look into King County's housing market**, making real estate trends more accessible through visual storytelling.   
+### Key Features
 
+- Time-based filtering using a calendar widget  
+- Analysis of pricing trends and property characteristics  
+- Visual breakdown of housing data across multiple dimensions  
+
+**Visualizations include:**
+- Line chart: Average house price over time  
+- Map: Geographic distribution of prices  
+- Histograms: Price, bedrooms, and bathrooms  
+- Heatmap: Relationship between property condition and views  
+
+---
+
+### Dashboard Preview
+
+![Overview](https://raw.githubusercontent.com/Suwethaig/Projects/main/dashboards/king_county_house_sales_dashboard/images/dashboard_overview.png)
+
+![Filters](https://raw.githubusercontent.com/Suwethaig/Projects/main/dashboards/king_county_house_sales_dashboard/images/filters.png)
+
+![Map](https://raw.githubusercontent.com/Suwethaig/Projects/main/dashboards/king_county_house_sales_dashboard/images/house_prices_map.png)
+
+---
+
+### How to Use
+
+1. Open the dashboard using the link above  
+2. Apply filters to explore different time periods  
+3. Interact with visualizations to analyze trends  
+
+---
+
+### Key Insight
+
+Housing prices vary significantly by location and property features, with clear trends visible over time.
+
+---
+
+### Tools
+
+Tableau • Data Visualization
