@@ -1,13 +1,17 @@
 
 # Vancouver's Rental Reality
 
-### ***You vs. Vancouver rental prices***
+As a newcomer to Vancouver, I observed that a significant portion of income goes toward rent. This led to an exploration of whether high rental costs are a recent trend or a long-standing issue. This project analyzes historical rental and wage data to evaluate pricing trends, affordability, and regional differences.
 
-As a newcomer to Vancouver, one of the first things I noticed was how much of my income goes toward rent! It was surprising to realize that renting in Vancouver demands a significant portion of my earnings, something I wasn't accustomed to. This observation led me to wonder: ***Is this a recent phenomenon, or have Vancouverites always faced such high rents?*** 
-
-Rather than just speculate, I decided to dive into the data and discover the truth for myself.
-
-![Combined Meme](https://raw.githubusercontent.com/Suwethaig/Projects/refs/heads/main/vancouver_rental_analysis/output/combined_meme.png)
+## Data Preparation Summary
+Before analysis, the datasets required preprocessing and the following steps were taken to ensure consistency:
+- Removed irrelevant columns and records
+- Standardized formats across datasets
+- Replaced missing and inconsistent values
+- Merged multiple datasets into a structured format
+- Ensured alignment between rental and wage data
+    
+This step was essential to create a reliable dataset for analysis.
 
 ## Table of Contents
 - [Key Questions for Exploration](key-questions-for-exploration)
