@@ -6,7 +6,7 @@ A collection of projects focused on cleaning, structuring, analyzing, and visual
 
 ## Featured Projects
 
-### [Marketing Analytics Business Case](https://github.com/Suwethaig/Projects/tree/main/marketing_analytics)
+### [E-commerce Marketing Analytics](https://github.com/Suwethaig/Projects/tree/main/marketing_analytics)
 - Cleaned and structured marketing, sales, and customer feedback data using SQL  
 - Applied sentiment analysis in Python to analyze customer feedback  
 - Built Power BI dashboards to track engagement and conversion  
@@ -22,7 +22,7 @@ A collection of projects focused on cleaning, structuring, analyzing, and visual
 
 ---
 
-### [Customer Data Cleaning (Pandas)](https://github.com/Suwethaig/Projects/tree/main/pandas_data_wrangling)
+### [Customer Data Cleaning](https://github.com/Suwethaig/Projects/tree/main/pandas_data_wrangling)
 - Cleaned raw customer data using Python (Pandas)  
 - Handled missing values, duplicates, and inconsistent formats  
 - Standardized fields for structured use  
@@ -32,19 +32,19 @@ A collection of projects focused on cleaning, structuring, analyzing, and visual
 
 ## Other Projects
 
-### [Global Population Data Analysis](https://github.com/Suwethaig/Projects/tree/main/global_population_exploration)
+### [Global Population Analysis](https://github.com/Suwethaig/Projects/tree/main/global_population_exploration)
 - Cleaned and merged population and country datasets  
 - Analyzed growth trends and demographic patterns  
 - Built visualizations to communicate insights  
 
 ---
 
-### [British Airways Reviews Dashboard](https://github.com/Suwethaig/Projects/tree/main/dashboards/british_airways_reviews_dashboard)
+### [British Airways Customer Reviews Dashboard](https://github.com/Suwethaig/Projects/tree/main/dashboards/british_airways_reviews_dashboard)
 - Built Tableau dashboard to analyze customer satisfaction trends  
 - Visualized ratings across services, aircraft types, and regions  
 
 ---
 
-### [King County House Sales Dashboard](https://github.com/Suwethaig/Projects/tree/main/dashboards/king_county_house_sales_dashboard)
+### [King County Housing Market Dashboard](https://github.com/Suwethaig/Projects/tree/main/dashboards/king_county_house_sales_dashboard)
 - Built Tableau dashboard analyzing housing prices and property features  
 - Visualized geographic trends and pricing patterns  
