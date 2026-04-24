@@ -1,26 +1,46 @@
-## Marketing Analytics Business Case
+## E-Commerce Marketing Analysis
+
+*A data cleaning, transformation, and analysis project using SQL, Python, and Power BI on customer feedback and marketing data.*
+
+---
 
 ### Overview
-This ongoing project focuses on **ShopEasy**, an online retail business, looking to enhance **customer engagement**, improve **conversion rates**, and optimize their **marketing spend**. By leveraging **sentiment analysis** of customer feedback, cleaned marketing data, and a **Power BI dashboard**, this analysis aims to provide actionable insights to drive ShopEasy’s marketing strategy.
+This project focuses on preparing and analyzing customer and marketing datasets for an online retail business. The goal was to clean, standardize, and structure data from multiple sources, and use the prepared data to generate insights into customer engagement, conversion, and satisfaction.
 
 ---
 
-### Project Components:
-- **Data Extraction & Cleaning (SQL)**: Extracting and cleaning marketing and sales data from ShopEasy’s databases.
-- **Sentiment Analysis (Python)**: Applying sentiment analysis techniques to understand customer feedback on products and services. 
-- **Dashboard (Power BI)**: A dynamic Power BI dashboard to visualize key metrics. 
----
+### Data Handling and Analysis
 
-### key Metrics (To be explored):
-- **Conversion Rate**: Percentage of visitors converting into paying customers.
-- **Customer Engagement Rate**: Measures interactions with marketing content (likes, comments, clicks).
-- **Average Order Value**: Average amount spent per transaction.
-- **Customer Satisfaction**: Insights from customer sentiment and feedback analysis.
+- Extracted data from multiple tables using SQL  
+- Cleaned and standardized datasets by removing duplicates and irrelevant fields  
+- Handled missing and inconsistent values to ensure data completeness  
+- Standardized categorical and text data for consistency  
+- Structured datasets to support both analysis and reporting  
+- Performed exploratory data analysis to identify patterns in customer behavior and marketing performance  
 
 ---
 
-### Dashboards Overview:
-The project currently includes the following dashboards:
+### Data Processing and Transformation
+
+- Processed and cleaned customer feedback data for sentiment analysis  
+- Applied text preprocessing techniques to improve data quality  
+- Ensured consistency across datasets before analysis  
+- Prepared structured datasets for downstream analysis and visualization  
+
+---
+
+### Analysis and Insights
+
+- Analyzed customer engagement and marketing performance metrics  
+- Evaluated conversion trends and customer behavior patterns  
+- Derived customer satisfaction insights using sentiment analysis  
+- Identified trends to support data-driven decision-making  
+
+---
+
+### Visualization and Reporting
+
+Developed interactive Power BI dashboards to present key metrics and insights:
 
 1. **Overview Dashboard**  
    ![Overview Dashboard](https://github.com/Suwethaig/Projects/blob/main/marketing_analytics/visualizations/overview_dashboard.jpg)
@@ -34,6 +54,40 @@ The project currently includes the following dashboards:
 4. **Customer Review Details Dashboard**  
    ![Customer Review Details Dashboard](https://github.com/Suwethaig/Projects/blob/main/marketing_analytics/visualizations/customer_review_details_dashboard.jpg)
 
+---
 
+### Key Metrics
 
+- Conversion Rate  
+- Customer Engagement Rate  
+- Average Order Value  
+- Customer Satisfaction (derived from sentiment analysis)  
 
+---
+
+### Tools and Technologies
+
+- SQL  
+- Python (Pandas, text processing, sentiment analysis)  
+- Power BI  
+
+---
+
+### Key Skills Demonstrated
+
+- Data cleaning and standardization  
+- Handling missing and inconsistent data  
+- Data transformation and structuring  
+- SQL querying (joins, aggregations)  
+- Exploratory data analysis  
+- Text data processing and sentiment analysis  
+- Data visualization and reporting  
+
+---
+
+### Key Learnings
+
+- Real-world datasets require extensive cleaning before analysis  
+- Consistent data structuring is critical for both analysis and reporting  
+- Data quality directly impacts insight accuracy  
+- Combining multiple datasets requires careful validation and alignment  
