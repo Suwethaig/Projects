@@ -6,7 +6,7 @@ Tableau dashboard analyzing housing trends in King County, focusing on price pat
 ---
 
 ### Live Dashboard
-🔗 [View Dashboard](https://public.tableau.com/shared/YMGFGRY7W?:display_count=n&:origin=viz_share_link)
+🔗 [View Dashboard](https://public.tableau.com/app/profile/suwetha.ilangovan.gajalakshmi/viz/KingCountyHouseSales_17175438219300/KingCountyHouseSales)
 
 ---
 
