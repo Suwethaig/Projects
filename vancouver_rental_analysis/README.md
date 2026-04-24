@@ -14,7 +14,7 @@ Before analysis, the datasets required preprocessing and the following steps wer
 This step was essential to create a reliable dataset for analysis.
 
 ## Table of Contents
-- [Key Questions for Exploration](##key-questions-for-exploration)
+- [Key Questions for Exploration](https://github.com/Suwethaig/Projects/edit/main/vancouver_rental_analysis/README.md#key-questions-for-exploration)
 - [Hypotheses](hypotheses)
 - [Data Analysis](data-analysis)
   - [Analysis 1 - Rental Price Evolution](#-analysis-1---rental-price-evolution-)
