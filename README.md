@@ -1,42 +1,50 @@
-# Projects Folder
+# Projects
 
-Welcome to my **Projects Folder**!  
-Here you'll find a collection of my data analysis and data visualization projects.  
-These projects showcase my skills in SQL, Python, Tableau, and other tools, as well as my ability to clean, analyze, and visualize data!  
+A collection of projects focused on cleaning, structuring, analyzing, and visualizing data using SQL, Python, and BI tools.
 
-## Projects
+---
 
-### [**Marketing Analytics Business Case**](https://github.com/Suwethaig/Projects/tree/main/marketing_analytics)
-   - **Description**: This project focuses on analyzing ShopEasy, an online retail business, to help improve its **customer engagement**, **conversion rates**, and optimize **marketing spend**.
-   - **Key Skills**: SQL, Python, Sentiment Analysis, Data Visualization, Power BI
-   - **Tools Used**: SQL, Python, Power BI
-   - **Steps Involved**:  
-     1. Data Extraction & Cleaning (SQL)  
-     2. Sentiment Analysis (Python)  
-     3. Building Power BI Dashboard
-     4. Key Insights
+## Featured Projects
 
-### [**Vancouver Rental Analysis**](./vancouver_rental_analysis)  
-   - **Description**: An analysis of Vancouver's rental market using SQL queries to gather insights into pricing trends, occupancy rates, and demographic distribution.  
-   - **Key Skills**: SQL, Data Analysis, Data Cleaning, Reporting  
-   - **Tools Used**: SQL, Excel
+### [Marketing Analytics Business Case](https://github.com/Suwethaig/Projects/tree/main/marketing_analytics)
+- Cleaned and structured marketing, sales, and customer feedback data using SQL  
+- Applied sentiment analysis in Python to analyze customer feedback  
+- Built Power BI dashboards to track engagement and conversion  
+- Focus: Data cleaning, analysis, and dashboard reporting  
 
-### [**Global Population Exploration**](./global_population_exploration)  
-   - **Description**: A deep dive into global population data, analyzing demographic trends, population growth, and socioeconomic factors with Python and Jupyter Notebooks.  
-   - **Key Skills**: Python, Data Exploration, Visualization, Jupyter Notebooks  
-   - **Libraries Used**: Pandas, Matplotlib, Seaborn
+---
 
-### [**British Airways Reviews Dashboard**](./british_airways_reviews_dashboard)  
-   - **Description**: A Tableau dashboard visualizing customer reviews of British Airways, providing insights into sentiment, popular routes, and service feedback.  
-   - **Key Skills**: Tableau, Data Visualization, Dashboard Design  
-   - **Tools Used**: Tableau
+### [Vancouver Rental Market Analysis](https://github.com/Suwethaig/Projects/tree/main/vancouver_rental_analysis)
+- Cleaned and combined rental and wage datasets  
+- Used SQL (joins, aggregations) to analyze pricing trends  
+- Evaluated affordability using rent-to-income comparisons  
+- Focus: SQL analysis and data preparation  
 
-### [**King County House Sales Dashboard**](./king_county_house_sales_dashboard)  
-   - **Description**: A Tableau dashboard visualizing housing market trends and sales data for King County, providing insights into pricing, property features, and neighborhood analysis.  
-   - **Key Skills**: Tableau, Data Visualization, Dashboard Design  
-   - **Tools Used**: Tableau
+---
 
-### [**Pandas Data Wrangling**](./pandas_data_wrangling)  
-   - **Description**: A data wrangling project using Pandas to clean and transform raw datasets, handling missing values, duplicates, and data type corrections to prepare the data for analysis.  
-   - **Key Skills**: Python, Pandas, Data Wrangling, Data Cleaning  
-   - **Libraries Used**: Pandas
+### [Customer Data Cleaning (Pandas)](https://github.com/Suwethaig/Projects/tree/main/pandas_data_wrangling)
+- Cleaned raw customer data using Python (Pandas)  
+- Handled missing values, duplicates, and inconsistent formats  
+- Standardized fields for structured use  
+- Focus: Data cleaning and transformation  
+
+---
+
+## Other Projects
+
+### [Global Population Data Analysis](https://github.com/Suwethaig/Projects/tree/main/global_population_exploration)
+- Cleaned and merged population and country datasets  
+- Analyzed growth trends and demographic patterns  
+- Built visualizations to communicate insights  
+
+---
+
+### [British Airways Reviews Dashboard](https://github.com/Suwethaig/Projects/tree/main/dashboards/british_airways_reviews_dashboard)
+- Built Tableau dashboard to analyze customer satisfaction trends  
+- Visualized ratings across services, aircraft types, and regions  
+
+---
+
+### [King County House Sales Dashboard](https://github.com/Suwethaig/Projects/tree/main/dashboards/king_county_house_sales_dashboard)
+- Built Tableau dashboard analyzing housing prices and property features  
+- Visualized geographic trends and pricing patterns  
