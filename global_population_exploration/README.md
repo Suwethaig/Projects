@@ -1,34 +1,45 @@
-## 🌍 Exploring Global Population Trends: A Data-Driven Approach  
+## Global Population Data Analysis
 
-### 📌 Overview  
-This project analyzes global population trends using data exploration and visualization techniques. It examines demographic distribution, historical growth patterns, and the relationship between population and economic factors.  
+### Overview
+This project analyzes global population trends using Python. The goal was to clean and combine population, country, demographic, and economic data to understand population growth, regional differences, and relationships with economic indicators.
 
-![World-population-Touches-8-Billion](https://github.com/user-attachments/assets/2d04ca35-a1b9-4c3c-aa75-9d7cf92015c6)
+---
 
-### 📊 Key Questions Explored  
+### Data Preparation
 
-#### **Part 1 - Understanding the Current Global Population**  
-- What is the current global population?  
-- Which countries have the highest and lowest populations?  
-- Do these countries also have high population densities?  
+- Standardized column names for consistency and readability
+- Selected relevant fields from country and population datasets
+- Merged datasets using country codes
+- Removed duplicate columns created during joins
+- Checked for missing values and corrected incomplete records
+- Structured the data for regional, demographic, and economic analysis
 
-#### **Part 2 - Trends in Global Population Growth**  
-- How has the global population changed every decade since 1960?  
-- How has population growth varied across continents?  
-- Which countries have experienced the fastest and slowest population growth rates?  
-- How does income level influence population growth rates?  
+---
 
-#### **Part 3 - Demographic Composition: Age, Gender, and Urbanization**  
-- How does the age distribution vary across regions?  
-- Which countries have the most balanced gender ratios?  
-- What is the global distribution of urban vs. rural populations?  
+### Analysis
 
-#### **Part 4 - The Impact of Population Growth on Economic Development**  
-- How does population size correlate with GDP?  
+- Analyzed population distribution across countries and continents
+- Explored population growth trends over time
+- Compared demographic factors such as age, gender, and urbanization
+- Examined relationships between population and economic indicators
 
-### 📂 View the Jupyter Notebook  
-Explore the full analysis, insights, and visualizations in the **Jupyter Notebook** on **nbviewer**:  
-🔗 [View on nbviewer](https://nbviewer.org/github/Suwethaig/Projects/blob/main/global_population_exploration/population_exploration.ipynb)  
+---
 
-### ⚙️ Run Locally  
-To run the analysis on your system, download the **`cleaned_data`** folder and the **Jupyter Notebook** (`population_exploration.ipynb`), then execute it in a Jupyter environment.  
+### Output
+
+- Cleaned and structured dataset
+- Python-based exploratory analysis
+- Visualizations showing population trends and demographic patterns
+- Jupyter Notebook with step-by-step analysis
+
+---
+
+### Key Takeaway
+
+Population growth patterns differ significantly across regions, and combining demographic and economic data helps explain how population trends vary across countries.
+
+---
+
+### Tools
+
+Python • Pandas • Matplotlib • Seaborn • Jupyter Notebook
